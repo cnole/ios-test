@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  test
+
+  Created by Zheng Luo on 29.05.13.
+  Copyright (c) 2013 hmmh. All rights reserved.
+*/
+
+"hello" = "hello";
+"close" = "close";
